@@ -1,7 +1,10 @@
+// ignore_for_file: prefer_const_literals_to_create_immutables
+
 import 'dart:async';
 
 import 'package:flutter/material.dart';
 
+import '../../front_page/front_page.dart';
 import '../../home/view/home_page.dart';
 
 class SplashPage extends StatefulWidget {
@@ -20,7 +23,7 @@ class _SplashPageState extends State<SplashPage> {
       () => Navigator.pushReplacement(
         context,
         MaterialPageRoute(
-          builder: (context) => const HomePage(),
+          builder: (context) => FronpageWidget(),
         ),
       ),
     );
@@ -35,7 +38,7 @@ class _SplashPageState extends State<SplashPage> {
         width: size.width,
         decoration: const BoxDecoration(
             image: DecorationImage(
-          image: AssetImage("assets\images\pharmacy_image_1.jpg"),
+          image: AssetImage("assets/images/pharmacy_image_1.jpg"),
           fit: BoxFit.cover,
         )),
         child: Column(
