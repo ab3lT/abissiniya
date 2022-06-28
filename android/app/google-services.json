@@ -1,0 +1,142 @@
+{
+  "project_info": {
+    "project_number": "72651665215",
+    "project_id": "abyssinia-pharmacy",
+    "storage_bucket": "abyssinia-pharmacy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72651665215:android:70e06c8851d7c853052d8a",
+        "android_client_info": {
+          "package_name": "com.example.abissiniya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72651665215-vkgel9j0lmrch6spqc9d33u052q9pnk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk3LmHfd4R1SqX2W2AN6S4E_L7NGJNs0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72651665215-vkgel9j0lmrch6spqc9d33u052q9pnk7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "72651665215-ekbmpu643ukusnvbnp01323ec1ajl0gb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.abyssinia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72651665215:android:768fb3d483b24573052d8a",
+        "android_client_info": {
+          "package_name": "com.example.abyssinia_pharmacy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72651665215-eu3i1j87hrqbvjfa9in4m388c285be1v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abyssinia_pharmacy",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "72651665215-kqj8rjuqrgv1a41p1ro95pe7r75ecq37.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abyssinia_pharmacy",
+            "certificate_hash": "48f61d5731a52b10ad5fe53a45b517fa76e31735"
+          }
+        },
+        {
+          "client_id": "72651665215-vkgel9j0lmrch6spqc9d33u052q9pnk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk3LmHfd4R1SqX2W2AN6S4E_L7NGJNs0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72651665215-vkgel9j0lmrch6spqc9d33u052q9pnk7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "72651665215-ekbmpu643ukusnvbnp01323ec1ajl0gb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.abyssinia"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72651665215:android:411ce098fbc1b444052d8a",
+        "android_client_info": {
+          "package_name": "com.flutterflow.abyssinia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72651665215-s12gni3nvm93dvsht4pe92mkbfl1hh4b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterflow.abyssinia",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "72651665215-vkgel9j0lmrch6spqc9d33u052q9pnk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk3LmHfd4R1SqX2W2AN6S4E_L7NGJNs0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72651665215-vkgel9j0lmrch6spqc9d33u052q9pnk7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "72651665215-ekbmpu643ukusnvbnp01323ec1ajl0gb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.abyssinia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
